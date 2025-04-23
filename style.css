@@ -65,6 +65,18 @@ footer {
   text-align: center;
   padding: 20px;
   background: #eee;
+  color: #000; /* <- forcer le texte en noir */
 }
+
+a {
+  color: #00f0ff; /* turquoise clair */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #ffffff; /* blanc au survol */
+}
+
 
 
