@@ -1,17 +1,43 @@
 /* Corps de page */
+<<<<<<< HEAD
 /*body {
   font-family: Arial, sans-serif;
   background-image: url('images/image de fond.jpg')no-repeat center center fixed;
+=======
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('images/background.jpg');
+>>>>>>> c0857f196fc79fec92d65bc85f71a97e6bc1e4a6
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
+<<<<<<< HEAD
 }*/
 
 body {
   background-color: red;
 }
 
+=======
+  color: #fff; /* texte en blanc */
+}
+
+section, main {
+  padding: 40px 20px;
+  max-width: 900px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5); /* fond semi-transparent */
+  border-radius: 10px;
+  color: #fff; /* texte en blanc */
+}
+
+
+/*body {
+  background-color: red;
+}*/
+
+>>>>>>> c0857f196fc79fec92d65bc85f71a97e6bc1e4a6
 
 /*body {
   font-family: Arial, sans-serif;
@@ -54,6 +80,24 @@ footer {
   text-align: center;
   padding: 20px;
   background: #eee;
+<<<<<<< HEAD
 }
 
 
+=======
+  color: #000; /* <- forcer le texte en noir */
+}
+
+a {
+  color: #00f0ff; /* turquoise clair */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #ffffff; /* blanc au survol */
+}
+
+
+
+>>>>>>> c0857f196fc79fec92d65bc85f71a97e6bc1e4a6
